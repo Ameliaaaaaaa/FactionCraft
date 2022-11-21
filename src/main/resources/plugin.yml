@@ -1,0 +1,5 @@
+name: FactionCraft
+description: Prevent crafting of Hoppers and Enchanted Golden Apples.
+author: Amelia
+version: 1.0.0
+main: me.amelia.factioncraft.Main
